@@ -1,0 +1,23 @@
+* {
+    font-family: Copperplate;
+    color: rgb(3, 55, 97);
+    background-color: aquamarine;
+}
+
+a {
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    height: auto;
+    padding-left: 40%;
+}
+h1 , h2, p{
+    text-align: center;
+}
+
+.rec_title {
+font-size: 50px;
+background-color: rgb(236, 123, 123);
+}
+
